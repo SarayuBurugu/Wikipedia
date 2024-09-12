@@ -1,0 +1,1191 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-desktop1 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop1-text1 {
+  top: 104px;
+  left: 261px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle4 {
+  top: -14px;
+  left: 0px;
+  width: 1517px;
+  height: 190px;
+  position: absolute;
+}
+.desktop1-rectangle4-stroke {
+  top: -14px;
+  left: 0px;
+  width: 1517px;
+  height: 190px;
+  position: absolute;
+}
+.desktop1donate {
+  top: 77.25567626953125px;
+  left: 1225.100830078125px;
+  width: 82.27095031738281px;
+  height: 14.943182945251465px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector100 {
+  top: 0.19886016845703125px;
+  left: 72.12890625px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector101 {
+  top: 0.19886016845703125px;
+  left: 58.117919921875px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector102 {
+  top: 0.19886016845703125px;
+  left: 44.348388671875px;
+  width: 14px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector103 {
+  top: 0.19886016845703125px;
+  left: 30.390625px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector104 {
+  top: 0px;
+  left: 14.453125px;
+  width: 14px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector105 {
+  top: 0.19886016845703125px;
+  left: 0px;
+  width: 13px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-line5-stroke {
+  top: 71px;
+  left: 1094px;
+  width: 23px;
+  height: 1px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-line6-stroke {
+  top: 71px;
+  left: 1094px;
+  width: 23px;
+  height: 1px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1talk {
+  top: 77.45452880859375px;
+  left: 1119.625px;
+  width: 51.75956726074219px;
+  height: 14.545454978942871px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector106 {
+  top: 0px;
+  left: 39.010986328125px;
+  width: 13px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector107 {
+  top: 0px;
+  left: 27.624267578125px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector108 {
+  top: 0px;
+  left: 11.5625px;
+  width: 14px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector109 {
+  top: 0px;
+  left: 0px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1mainpage {
+  top: 77.25567626953125px;
+  left: 965.100830078125px;
+  width: 110.00532531738281px;
+  height: 14.943182945251465px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector110 {
+  top: 0.19886016845703125px;
+  left: 99.86328125px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector111 {
+  top: 0px;
+  left: 84.375px;
+  width: 13px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector112 {
+  top: 0.19886016845703125px;
+  left: 69.153076171875px;
+  width: 14px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector113 {
+  top: 0.19886016845703125px;
+  left: 58.49609375px;
+  width: 11px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector114 {
+  top: 0.19886016845703125px;
+  left: 39.609375px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector115 {
+  top: 0.19886016845703125px;
+  left: 33.88671875px;
+  width: 4px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector116 {
+  top: 0.19886016845703125px;
+  left: 17.824951171875px;
+  width: 14px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector117 {
+  top: 0.19886016845703125px;
+  left: 0px;
+  width: 16px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-wikipedia-emblem2 {
+  top: -16px;
+  left: 17px;
+  width: 398px;
+  height: 190px;
+  position: absolute;
+}
+.desktop1-rectangle5 {
+  top: 59px;
+  left: 509px;
+  width: 313px;
+  height: 44px;
+  position: absolute;
+}
+.desktop1-search-wikipedia {
+  top: 76.75px;
+  left: 529.602294921875px;
+  width: 120.2596435546875px;
+  height: 14.318181037902832px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector118 {
+  top: 2.9616470336914062px;
+  left: 113.71844482421875px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector119 {
+  top: 0px;
+  left: 110.2867431640625px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector120 {
+  top: 0.340911865234375px;
+  left: 100.84246826171875px;
+  width: 7px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector121 {
+  top: 2.9616470336914062px;
+  left: 92.11199951171875px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector122 {
+  top: 2.9616470336914062px;
+  left: 83.35491943359375px;
+  width: 7px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector123 {
+  top: 0px;
+  left: 79.5396728515625px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector124 {
+  top: 0.340911865234375px;
+  left: 71.63616943359375px;
+  width: 7px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector125 {
+  top: 0px;
+  left: 67.8209228515625px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector126 {
+  top: 0.340911865234375px;
+  left: 53.00732421875px;
+  width: 14px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector127 {
+  top: 0.340911865234375px;
+  left: 40.75726318359375px;
+  width: 7px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector128 {
+  top: 2.9616470336914062px;
+  left: 31.99481201171875px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector129 {
+  top: 2.940338134765625px;
+  left: 27.04632568359375px;
+  width: 4px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector130 {
+  top: 2.9616470336914062px;
+  left: 18.21063232421875px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector131 {
+  top: 2.9616470336914062px;
+  left: 9.48016357421875px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector132 {
+  top: 0.1917572021484375px;
+  left: 0px;
+  width: 8px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-line4-stroke {
+  top: 71px;
+  left: 1199px;
+  width: 23px;
+  height: 1px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-search {
+  top: 71px;
+  left: 772px;
+  width: 23px;
+  height: 24px;
+  position: absolute;
+}
+.desktop1-rectangle6 {
+  top: 176px;
+  left: 0px;
+  width: 1517px;
+  height: 47px;
+  position: absolute;
+}
+.desktop1-arts {
+  top: 202px;
+  left: 79px;
+  width: 30.087890625px;
+  height: 11.068896293640137px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector133 {
+  top: 2.6207427978515625px;
+  left: 23.083274841308594px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector134 {
+  top: 0.7670440673828125px;
+  left: 17.246536254882812px;
+  width: 5px;
+  height: 10px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector135 {
+  top: 2.610076904296875px;
+  left: 11.477714538574219px;
+  width: 5px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector136 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-geography {
+  top: 201px;
+  left: 280.79901123046875px;
+  width: 78.91112518310547px;
+  height: 14.29688549041748px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector137 {
+  top: 2.8764190673828125px;
+  left: 70.95303344726562px;
+  width: 8px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector138 {
+  top: 0.1491546630859375px;
+  left: 62.6966552734375px;
+  width: 7px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector139 {
+  top: 2.7698974609375px;
+  left: 53.3216552734375px;
+  width: 8px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector140 {
+  top: 2.7698974609375px;
+  left: 44.3248291015625px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector141 {
+  top: 2.7592315673828125px;
+  left: 38.9075927734375px;
+  width: 5px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector142 {
+  top: 2.7698974609375px;
+  left: 29.196990966796875px;
+  width: 8px;
+  height: 12px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector143 {
+  top: 2.7698974609375px;
+  left: 20.055023193359375px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector144 {
+  top: 2.7698974609375px;
+  left: 11.163421630859375px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector145 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-history {
+  top: 201px;
+  left: 415px;
+  width: 51.4613037109375px;
+  height: 14.504608154296875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector146 {
+  top: 3.254608154296875px;
+  left: 43.503204345703125px;
+  width: 8px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector147 {
+  top: 3.137420654296875px;
+  left: 37.956787109375px;
+  width: 5px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector148 {
+  top: 3.1480865478515625px;
+  left: 28.479217529296875px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector149 {
+  top: 1.2943878173828125px;
+  left: 22.6025390625px;
+  width: 5px;
+  height: 10px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector150 {
+  top: 3.1480865478515625px;
+  left: 14.62579345703125px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector151 {
+  top: 0px;
+  left: 10.927734375px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector152 {
+  top: 0.52734375px;
+  left: 0px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-mathemathics {
+  top: 202px;
+  left: 509px;
+  width: 102.44584655761719px;
+  height: 11.601566314697266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector153 {
+  top: 3.1480865478515625px;
+  left: 95.44122314453125px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector154 {
+  top: 3.1480865478515625px;
+  left: 86.794677734375px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector155 {
+  top: 0px;
+  left: 83.0859375px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector156 {
+  top: 0.52734375px;
+  left: 74.035888671875px;
+  width: 7px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector157 {
+  top: 1.2943878173828125px;
+  left: 67.5439453125px;
+  width: 5px;
+  height: 10px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector158 {
+  top: 3.1480865478515625px;
+  left: 59.1650390625px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector159 {
+  top: 3.1480865478515625px;
+  left: 46.086669921875px;
+  width: 12px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector160 {
+  top: 3.1480865478515625px;
+  left: 36.843505859375px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector161 {
+  top: 0.52734375px;
+  left: 27.995849609375px;
+  width: 7px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector162 {
+  top: 1.2943878173828125px;
+  left: 21.50390625px;
+  width: 5px;
+  height: 10px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector163 {
+  top: 3.1480865478515625px;
+  left: 13.125px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector164 {
+  top: 0.52734375px;
+  left: 0px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-science {
+  top: 202px;
+  left: 654px;
+  width: 56.56827926635742px;
+  height: 11.601555824279785px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector165 {
+  top: 3.1480865478515625px;
+  left: 48.9564208984375px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector166 {
+  top: 3.1480865478515625px;
+  left: 40.2991943359375px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector167 {
+  top: 3.1480865478515625px;
+  left: 31.5101318359375px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector168 {
+  top: 3.1480865478515625px;
+  left: 22.2669677734375px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector169 {
+  top: 0px;
+  left: 18.5582275390625px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector170 {
+  top: 3.1480865478515625px;
+  left: 9.6986083984375px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector171 {
+  top: 0.3781890869140625px;
+  left: 0px;
+  width: 8px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-society {
+  top: 201px;
+  left: 752px;
+  width: 53.642547607421875px;
+  height: 14.504608154296875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector172 {
+  top: 3.254608154296875px;
+  left: 45.6844482421875px;
+  width: 8px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector173 {
+  top: 1.2943878173828125px;
+  left: 40.0181884765625px;
+  width: 5px;
+  height: 10px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector174 {
+  top: 3.1480865478515625px;
+  left: 31.3929443359375px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector175 {
+  top: 0px;
+  left: 27.6842041015625px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector176 {
+  top: 3.1480865478515625px;
+  left: 18.8245849609375px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector177 {
+  top: 3.1480865478515625px;
+  left: 9.6986083984375px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector178 {
+  top: 0.3781890869140625px;
+  left: 0px;
+  width: 8px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-technology {
+  top: 201px;
+  left: 848px;
+  width: 83.8449935913086px;
+  height: 14.147730827331543px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector179 {
+  top: 2.727264404296875px;
+  left: 75.88690185546875px;
+  width: 8px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector180 {
+  top: 2.6207427978515625px;
+  left: 66.82611083984375px;
+  width: 8px;
+  height: 12px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector181 {
+  top: 2.6207427978515625px;
+  left: 57.6842041015625px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector182 {
+  top: 0px;
+  left: 54.1246337890625px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector183 {
+  top: 2.6207427978515625px;
+  left: 44.6470947265625px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector184 {
+  top: 2.6207427978515625px;
+  left: 35.8580322265625px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector185 {
+  top: 0px;
+  left: 26.6588134765625px;
+  width: 7px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector186 {
+  top: 2.6207427978515625px;
+  left: 17.6500244140625px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector187 {
+  top: 2.6207427978515625px;
+  left: 8.7584228515625px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector188 {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-allportals {
+  top: 201px;
+  left: 973.3675537109375px;
+  width: 72.77342224121094px;
+  height: 13.977276802062988px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector189 {
+  top: 2.6207427978515625px;
+  left: 65.768798828125px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector190 {
+  top: 0px;
+  left: 62.2198486328125px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector191 {
+  top: 2.6207427978515625px;
+  left: 53.22314453125px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector192 {
+  top: 0.7670440673828125px;
+  left: 47.29046630859375px;
+  width: 5px;
+  height: 10px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector193 {
+  top: 2.610076904296875px;
+  left: 41.52166748046875px;
+  width: 5px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector194 {
+  top: 2.6207427978515625px;
+  left: 32.04412841796875px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector195 {
+  top: 2.6207427978515625px;
+  left: 23.02069091796875px;
+  width: 8px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector196 {
+  top: 0px;
+  left: 15.38885498046875px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector197 {
+  top: 0px;
+  left: 11.47772216796875px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector198 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-biography {
+  top: 201px;
+  left: 152px;
+  width: 72.18883514404297px;
+  height: 14.675074577331543px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector199 {
+  top: 3.254608154296875px;
+  left: 64.23074340820312px;
+  width: 8px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector200 {
+  top: 0.52734375px;
+  left: 55.97434997558594px;
+  width: 7px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector201 {
+  top: 3.1480865478515625px;
+  left: 46.59934997558594px;
+  width: 8px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector202 {
+  top: 3.1480865478515625px;
+  left: 37.6025390625px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector203 {
+  top: 3.137420654296875px;
+  left: 32.18528747558594px;
+  width: 5px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector204 {
+  top: 3.1480865478515625px;
+  left: 22.474700927734375px;
+  width: 8px;
+  height: 12px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector205 {
+  top: 3.1480865478515625px;
+  left: 13.332748413085938px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector206 {
+  top: 0px;
+  left: 9.6240234375px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-vector207 {
+  top: 0.52734375px;
+  left: 0px;
+  width: 8px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.desktop1-playarrowfilled {
+  top: 205.71481323242188px;
+  left: 1048px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.desktop1-usericon1024x1024dtzturco1 {
+  top: 353px;
+  left: 675px;
+  width: 164px;
+  height: 164px;
+  position: absolute;
+}
+.desktop1-text2 {
+  top: 530px;
+  left: 705px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle7 {
+  top: 582px;
+  left: 480px;
+  width: 563px;
+  height: 51px;
+  position: absolute;
+  border-radius: 15px;
+}
+.desktop1-rectangle8 {
+  top: 684px;
+  left: 480px;
+  width: 563px;
+  height: 51px;
+  position: absolute;
+  border-radius: 15px;
+}
+.desktop1-text4 {
+  top: 593px;
+  left: 498px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text6 {
+  top: 695px;
+  left: 493px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle9 {
+  top: 798px;
+  left: 720px;
+  width: 119px;
+  height: 31px;
+  position: absolute;
+  border-radius: 10px;
+}
+.desktop1-text8 {
+  top: 798px;
+  left: 744px;
+  color: rgba(29, 27, 32, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
